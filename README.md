@@ -1,2 +1,2 @@
 # igti-projeto-aplicado
-Scan de 
+Scan de vulenrabilidades
